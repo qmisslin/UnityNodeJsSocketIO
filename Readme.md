@@ -1,5 +1,5 @@
 ### Socket IO client in unity
-
+```c#
     using System.Collections;
     using System.Collections.Generic;
     using UnityEngine;
@@ -49,9 +49,9 @@
             }
         }
     }
-
+```
 ### Socket IO server in NodeJS
-
+```js
     var io = require('socket.io')(80);
     console.log('Server started !');
 
@@ -79,3 +79,4 @@
     }
 
     loop();
+```
