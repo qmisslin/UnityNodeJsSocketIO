@@ -75,7 +75,7 @@ function loop() {
 loop();
 ```
 
-## Socket IO client in unity
+## Socket IO client in Unity
 
 Here is a minimal code for the client side of the application.
 
